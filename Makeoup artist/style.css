@@ -1,0 +1,45 @@
+.style1{
+    color: rgb(230, 78, 18);
+}
+
+.style2{
+    color: rgb(65, 16, 179);
+}
+
+.style3{
+    background-color: rgb(27, 228, 228);
+}
+
+.style4{
+    background-color: rgb(146, 25, 206);
+}
+
+.style5{
+   width: 1700;
+   height: 600;
+   background-color: rgb(230, 115, 134);   
+}
+.style6{
+    background-color: rgb(189, 33, 33);
+}
+
+.style7{
+    width: 1700;
+    height: 600;
+    background-color: greenyellow;
+}
+
+.style8{
+    color: hotpink;
+}
+
+.logo:hover{
+   transform:scaleY(1.5);
+
+}
+
+.background1{
+    width: 1700;
+    height: 1000;
+    background-color: lawngreen;
+}
